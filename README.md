@@ -6,7 +6,7 @@
   <a href="mailto:dudgk0216@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-&logo=Gmail&logoColor=white&link=edie.spark1er@gmail.com"/></a><br>
 </p>
 <br />
-<div align=center>
+<div>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
@@ -22,7 +22,7 @@
 </div>
 <br />
 
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyounagh&show_icons=true&theme=radical)	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyounagh&show_icons=true&theme=radical)	
 
 
 
