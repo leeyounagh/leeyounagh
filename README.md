@@ -6,7 +6,6 @@
   <a href="mailto:dudgk0216@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-&logo=Gmail&logoColor=white&link=edie.spark1er@gmail.com"/></a><br>
 </p>
 <br />
-<br />
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
