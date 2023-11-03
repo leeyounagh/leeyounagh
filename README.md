@@ -25,7 +25,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyounagh&show_icons=true&theme=radical)	
 
 <br />
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgk0216@naver.com)](https://solved.ac/dudgk0216@naver.com/)  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dudgk0216)](https://solved.ac/dudgk0216)  
 
 
 
