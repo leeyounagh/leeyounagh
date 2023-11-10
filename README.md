@@ -22,7 +22,7 @@
 </div>
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyounagh&show_icons=true&theme=radical)	
+![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=leeyounagh&show_icons=true&theme=radical)	
 
 
 
